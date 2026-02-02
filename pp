@@ -460,12 +460,12 @@ STARTCODE
                     $Boilerplate = <<'BOILERPLATE';
 <?xml version="1.0" encoding="utf-8" ?>
 <otobo_config version="2.0" init="[placeholder]">
-<Setting Name="" Required="" Valid="" ConfigLevel="">
-    <Description Translatable="1"></Description>
-    <Navigation></Navigation>
-    <Value>
-    </Value>
-</Setting>
+    <Setting Name="" Required="" Valid="" ConfigLevel="">
+        <Description Translatable="1"></Description>
+        <Navigation></Navigation>
+        <Value>
+        </Value>
+    </Setting>
 </otobo_config>
 BOILERPLATE
                 }
